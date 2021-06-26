@@ -541,6 +541,7 @@ footer{
     text-align: center;    
     line-height: 1.5;
     color: #fff;
+    Font-size:2px;
 
 }
 
@@ -747,5 +748,8 @@ footer{
     .last-foot {
         line-height: 1.6;
         
+    }
+    .Last-foot p{
+       Font-size:2px;
     }
 }
