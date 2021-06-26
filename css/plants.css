@@ -535,11 +535,13 @@ footer{
     color:  #517fa4;
 }
 .last-foot{
+    padding-bottom: 20px;
+}
+.last-foot p{
     text-align: center;    
     line-height: 1.5;
     color: #fff;
     font-size: 104%;
-    padding-bottom: 20px;
 }
 
 
