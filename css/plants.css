@@ -553,7 +553,7 @@ footer{
         padding: 2px;
     }
     .search {
-        width: 206px;
+        width: 160px;
         height: 20px;
         margin-left: 8px;
         padding: 12px;
@@ -567,7 +567,7 @@ footer{
     }
     .menu-area {
         margin: 0px;
-        margin-left: -6px;
+        margin-left: -4px;
     }
     .menu-area li {
         margin: 8px 0px;
@@ -575,7 +575,7 @@ footer{
     .menu-area li a {
         padding: 0px 4px;
         letter-spacing: 0px;
-        font-size: 12px;
+        font-size: 10px;
         font-weight: 100;
     }
     .banner {
