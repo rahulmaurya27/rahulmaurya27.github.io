@@ -748,8 +748,8 @@ footer{
         line-height: 1.6;
         
     }
-    .Last-foot p{
-       Font-size:10%;
+    .last-foot p{
+       font-size: 10%;
     }
 }
 
@@ -845,7 +845,7 @@ footer{
     .social-nav li {
         font-size: 110%;
     }
-    .Last-foot p{
-       Font-size: 8%;
+    .last-foot p{
+       font-size: 8%;
     }
 }
